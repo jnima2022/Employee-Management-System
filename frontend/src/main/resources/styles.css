@@ -1,0 +1,30 @@
+.table-view {
+    -fx-background-color: #ffffff;
+    background-color: #ffffff; /* Standard property */
+    -fx-border-color: #d3d3d3;
+    border-color: #d3d3d3; /* Standard property */
+    -fx-border-radius: 5px;
+    border-radius: 5px; /* Standard property */
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    background-color: #4CAF50; /* Standard property */
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    font-size: 14px; /* Standard property */
+    -fx-padding: 10px;
+    padding: 10px; /* Standard property */
+}
+
+.button:hover {
+    -fx-background-color: #45a049;
+    background-color: #45a049; /* Standard property */
+}
+
+.text-field {
+    -fx-border-color: #ccc;
+    border-color: #ccc; /* Standard property */
+    -fx-padding: 5px;
+    padding: 5px; /* Standard property */
+}
